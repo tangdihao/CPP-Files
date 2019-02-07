@@ -1,5 +1,6 @@
 #CPP-Files
-#Author:tangdihao
+----------------
+Author:tangdihao
 ----------------------------
 I hope to go further in GitHub!
 
