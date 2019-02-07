@@ -1,9 +1,11 @@
-//============================================================================
-// Name        : HelloWorld.cpp
-// Author      : tangdihao
-// Version     : 1.0.0
-// Description : Hello World in C++, Ansi-style
-//============================================================================
+/**
+ * @name    HelloWorld.cpp
+ * @author  tangdihao
+ * @version 1.0.0
+ * --------------------------------
+ * Copyright (c) 2019 by tangdihao.
+ * All Rights Reserved.
+ */
 
 #include <iostream>
 using namespace std;
