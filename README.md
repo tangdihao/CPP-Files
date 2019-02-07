@@ -1,4 +1,2 @@
 #CPP-Files
-//====================
-// Author : tangdihao
-//====================
+By tangdihao
