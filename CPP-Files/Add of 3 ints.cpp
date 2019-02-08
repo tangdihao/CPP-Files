@@ -3,6 +3,8 @@
  * @author  tangdihao
  * @version 1.0.0
  * --------------------------------
+ * Add three numbers
+ * --------------------------------
  * Copyright (c) 2019 by tangdihao.
  * All Rights Reserved.
  */
