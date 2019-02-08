@@ -1,7 +1,7 @@
 /**
  * @name    HelloWorld(String).cpp
  * @author  tangdihao
- * @version 1.0.0
+ * @version 1.0.1
  * --------------------------------
  * Copyright (c) 2019 by tangdihao.
  * All Rights Reserved.
@@ -12,8 +12,8 @@ using namespace std;
 
 int main()
 {
-    typedef string sentence;
-    sentence say_hello = "Hello World";//将say_hello定义为HelloWorld
-    cout<< say_hello <<endl;//输出say_hello
+    typedef string sentence;//声明变量
+    sentence say_hello = "Hello World";
+    cout<< say_hello <<endl;//初始化变量
     return 0;
 }
