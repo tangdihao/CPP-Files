@@ -13,7 +13,7 @@
 using namespace std;
 
 int main()
-{   //prints Hello World
+{   //输出Hello World
 	cout << "Hello World" << endl;
 	return 0;
 }
