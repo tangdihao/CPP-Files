@@ -14,8 +14,8 @@ using namespace std;
 
 int main()
 {
-    typedef string sentence;//å£°æ˜å˜é‡
+    typedef string sentence;//ÉùÃ÷±äÁ¿
     sentence say_hello = "Hello World";
-    cout<< say_hello <<endl;//åˆå§‹åŒ–å˜é‡
+    cout<< say_hello <<endl;//³õÊ¼»¯±äÁ¿
     return 0;
 }
